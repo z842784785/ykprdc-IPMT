@@ -1,0 +1,10 @@
+{
+    "Major": 1,
+    "Minor": 1,
+    "Build": 1,
+    "Patch": 9,
+    "Description": "优化数据查询功能",
+    "Uri": "https://gitee.com/ykprdc/IPMT/raw/master/update",
+    "PargramUri": "https://gitee.com/ykprdc/IPMT/raw/master/icpg.zip",
+    "AcceptLowVersion": false
+}
